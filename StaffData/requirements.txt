@@ -5,6 +5,7 @@ dnspython==2.2.1
 email-validator==1.2.1
 Faker==13.7.0
 Flask==2.1.2
+flask-marshmallow==0.14.0
 flask-mongoengine==1.0.0
 Flask-PyMongo==2.3.0
 flask-restplus==0.13.0
@@ -17,10 +18,15 @@ itsdangerous==2.1.2
 Jinja2==3.1.2
 jsonschema==4.5.1
 MarkupSafe==2.1.1
+marshmallow==3.15.0
+marshmallow-sqlalchemy==0.28.0
 mongoengine==0.24.1
 numpy==1.22.3
+packaging==21.3
 pandas==1.4.2
+psycopg2-binary==2.9.3
 pymongo==4.1.1
+pyparsing==3.0.9
 pyrsistent==0.18.1
 python-dateutil==2.8.2
 pytz==2022.1

@@ -1,0 +1,36 @@
+[
+  {
+    "_id": 102,
+    "name": "Indiv01",
+    "dept": "Finance",
+    "level": "Analyst",
+    "office": "main",
+    "costcenter": "FAM",
+    "startdate": "Jun/2020",
+    "salary": 2000.00,
+    "perf_indicator": "decreasing"
+  },
+  {
+    "_id": 103,
+    "name": "Indiv02",
+    "dept": "Commercial",
+    "level": "Coordinator",
+    "office": "coworking",
+    "costcenter": "CCC",
+    "startdate": "Jan/2019",
+    "salary": 3800.00,
+    "perf_indicator": "evolving"
+  },
+  {
+    "_id": 104,
+    "name": "Indiv03",
+    "dept": "Marketing",
+    "level": "Manager",
+    "office": "remote",
+    "costcenter": "MMR",
+    "startdate": "Sep/2021",
+    "salary": 5200.00,
+    "perf_indicator": "regular"
+  }
+]
+
